@@ -1,0 +1,2 @@
+# mayaCode
+maya  script
